@@ -1,5 +1,5 @@
 ###Launch
 meteor
 
-###Cehck db
+###Check db
 meteor mongo
